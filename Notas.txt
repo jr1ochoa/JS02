@@ -1,0 +1,1 @@
+para mandar a llamar un js externo se utiliza src="ejemplo.js"
